@@ -5,4 +5,8 @@ public to share the progress between collaborators. No documents are available y
 The RIPL-3 data can be found in in [IAEA-NDS website](https://nds.iaea.org/RIPL-3/).
 
 ### Conversion of RIPL-3 to JSON
-JSON converted descrete level data is in [json/levels](https://github.com/shinokumura/ripl3_json/tree/main/json/levels)
+JSON converted descrete level data is in [json/levels](https://github.com/barionleg/IAEA-NDS-ripl3_json/tree/add-license-1/json/levels)
+
+https://github.com/barionleg/ripl3_json/tree/add-license-1/json/levels
+
+barionleg Aibolem_arumukonihs 
